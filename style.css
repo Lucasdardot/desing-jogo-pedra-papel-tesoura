@@ -5,7 +5,6 @@ body {
     justify-content: center;
     align-items: center;
     margin-top: 270px;
-    overflow: hidden;
 
 
 }
@@ -101,3 +100,54 @@ button:hover {
 
     font-family: 'Gabarito', sans-serif;
 }
+
+@media screen and (max-width:500px){
+    #principal{
+        height: 600px;
+        width: 300px;
+        padding: 0px;
+    } 
+
+    .h3{
+        font-size: 20px;
+    }
+
+    .p{
+        font-size: 20px;
+    }
+
+    .destaque{
+        font-size: 20px
+    }
+
+    #escolha-computador{
+        height: 250px;
+        border: 1px solid red;
+    }
+
+    #escolha-sua{
+        height: 250px;
+        border: 1px solid saddlebrown;
+    }
+
+    #escolhas{
+        height: 250px;
+    }
+
+    #botoes{
+        padding: 0px;
+        height: 30px;
+        padding-top: 20px;
+    }
+    button{
+        width: 70px;
+        height: 60px;
+        font-size: 13px;
+    }
+
+    #resultados{
+        border: 1px solid red;
+        height: 230px;
+
+    }
+  }
