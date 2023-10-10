@@ -122,12 +122,10 @@ button:hover {
 
     #escolha-computador{
         height: 250px;
-        border: 1px solid red;
     }
 
     #escolha-sua{
         height: 250px;
-        border: 1px solid saddlebrown;
     }
 
     #escolhas{
@@ -146,7 +144,6 @@ button:hover {
     }
 
     #resultados{
-        border: 1px solid red;
         height: 230px;
 
     }
