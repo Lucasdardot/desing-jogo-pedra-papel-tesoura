@@ -135,7 +135,6 @@ button:hover {
     #botoes{
         padding: 0px;
         height: 30px;
-        padding-top: 20px;
     }
     button{
         width: 70px;
@@ -146,5 +145,8 @@ button:hover {
     #resultados{
         height: 230px;
 
+    }
+    body{
+        margin-top: 130px;
     }
   }
